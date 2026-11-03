@@ -1,0 +1,11 @@
+LOQUAY - VIDEO TUTORIAL
+
+1. Cree un repositorio publico nuevo en GitHub (nombre sugerido: Loquay-Tutorial).
+2. En la pagina principal del repositorio, pulse Add file > Upload files.
+3. Abra esta carpeta y arrastre LOS CUATRO archivos que contiene a la zona de carga. No arrastre la carpeta contenedora.
+4. Pulse Commit changes y confirme que index.html, tutorial-loquay.mp4, portada.jpg y logo-loquay.png queden directamente en la raiz del repositorio.
+5. En Settings > Pages seleccione Deploy from a branch > main > /(root) y pulse Save.
+6. Una vez publicada la web, pruebe la reproduccion y descarga desde un celular sin iniciar sesion.
+7. Genere un QR para la URL que GitHub Pages le muestra. Si usa el repositorio sugerido: https://stcoordinacionia-hue.github.io/Loquay-Tutorial/
+
+NOTA: GitHub Pages tiene condiciones y limites de trafico, por lo que esta configuracion se recomienda para un tutorial con audiencia moderada, no para streaming a gran escala.
